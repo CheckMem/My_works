@@ -1,8 +1,9 @@
 def say_hello(name):
     print('Hello,', name)
 
+#комментарий
 
-
+#gfgdfgd
 
 def div(a, b):
     if b != 0:
