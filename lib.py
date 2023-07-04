@@ -3,7 +3,7 @@ def say_hello(name):
 
 #комментарий
 
-#gfgdfgd
+#ggfhgfhgf
 
 def div(a, b):
     if b != 0:
